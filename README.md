@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Erkal</h1>
 <h3 align="center">A disciplined Front End Developer</h3>
 
-- 🔭 I’m currently working on **Stripe Clone**
+- 🔭 I’m currently working on **Time**
 
 - 👨‍💻 All of my projects are available at [https://ryanerkal.netlify.app/](https://ryanerkal.netlify.app/)
 
