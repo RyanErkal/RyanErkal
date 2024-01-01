@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ryan Erkal</h1>
-<h3 align="center">A disciplined Front End Developer</h3>
+<h1 align="center">Hi, I'm Ryan Erkal</h1>
+<h3 align="center">Freelance Web Developer</h3>
 
-- 🔭 I’m currently working on **Time**
+- 🔭 I’m currently building my agency
 
 - 👨‍💻 All of my projects are available at [https://ryanerkal.netlify.app/](https://ryanerkal.netlify.app/)
 
-- 📫 How to reach me **ryanerkal@yahoo.ie**
+- 📫 How to reach me **ryanerkal1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
