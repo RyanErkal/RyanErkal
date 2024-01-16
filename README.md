@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building my agency
 
-- 👨‍💻 All of my projects are available at [https://ryanerkal.netlify.app/](https://ryanerkal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ryanerkal.vercel.app/](https://ryanerkal.vercel.app/)
 
 - 📫 How to reach me **ryanerkal1@gmail.com**
 
