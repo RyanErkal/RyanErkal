@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ryan Erkal</h1>
-<h3 align="center">Freelance Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently building my agency
 
