@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently building my agency
 
-- 👨‍💻 All of my projects are available at [https://redesignagency.co/](https://redesignagency.co/) & [https://ryanerkal.com/](https://ryanerkal.com/)
+- 👨‍💻 All of my projects are available at [https://redesignagency.co/](https://redesignagency.co/) / [https://ryanerkal.com/](https://ryanerkal.com/)
 
-- 📫 How to reach me **ryanerkal1@gmail.com**
+- 📫 How to reach me ryanerkal1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
